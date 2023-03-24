@@ -20,28 +20,28 @@ ScreenShots
 
 * ##### Get Servers : Here we get all the servers present in database.
 
-![GetServers](https://user-images.githubusercontent.com/73234020/158126948-5c6da388-dfda-47ce-84d1-5e65168df338.png)
+![GetServers](https://github.com/sshashwatt/Kaiburr-task-1/blob/main/Task1/ScreenShots/GetServers.png)
 
 * ##### Get Server By Id : Here we get only one server for the given id and if there is no server for given id then we get status as ``` 404 NOT FOUND ```.
 Get Server By Id
-![GetServerById](https://user-images.githubusercontent.com/73234020/158127198-03a097dc-2d2d-4753-ae83-adc39ea20a40.png)
+![GetServerById](https://github.com/sshashwatt/Kaiburr-task-1/blob/main/Task1/ScreenShots/GetServerById.png)
 
 ```404 NOT FOUND```
-![GetServersById(404 not found)](https://user-images.githubusercontent.com/73234020/158127233-eeb4881d-e29b-42e3-8d8c-8119f9051b59.jpg)
+![GetServersById(404 not found)](https://github.com/sshashwatt/Kaiburr-task-1/blob/main/Task1/ScreenShots/GetServersById(404%20not%20found).jpg)
 
 * ##### Get Server By Name : Here we get all servers by name and if there is no server then we get ```404 NOT FOUND```. 
 
-![GetServerByName](https://user-images.githubusercontent.com/73234020/158127958-034116db-7f1d-438f-91f0-19774a2be5f9.png)
+![GetServerByName](https://github.com/sshashwatt/Kaiburr-task-1/blob/main/Task1/ScreenShots/GetServerByName.png)
 
 ```404 NOT FOUND```
-![GetServersByName(404 not found)](https://user-images.githubusercontent.com/73234020/158128985-4be3b264-7f4c-4f48-8c3f-e891b0f71077.png)
+![GetServersByName(404 not found)](https://github.com/sshashwatt/Kaiburr-task-1/blob/main/Task1/ScreenShots/GetServersByName(404%20not%20found).png)
 
 
 * ##### Delete Server : Here the server gets deleted for a given id.
-![DeleteServer](https://user-images.githubusercontent.com/73234020/158128248-bf5a1522-0f02-4961-939c-7a7e007ba737.png)
+![DeleteServer](https://github.com/sshashwatt/Kaiburr-task-1/blob/main/Task1/ScreenShots/DeleteServer.png)
 
 * #### MongoDB database 
-![MongoDBDatabase](https://user-images.githubusercontent.com/73234020/158129122-cdf80e34-fe71-4d7f-b23c-173d0aa4ca86.png)
+![MongoDBDatabase](https://github.com/sshashwatt/Kaiburr-task-1/blob/main/Task1/ScreenShots/MongoDBDatabase.png)
 
 
 ## Thank You !!!
